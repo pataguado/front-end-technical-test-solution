@@ -12,3 +12,4 @@ Welcome to Smile Lab Solutions Limited front-end role technical test.
 
 
 ![Currency Converter](https://media.cheggcdn.com/media/5cd/s707x251/5cd96b02-8279-4c33-be61-667bd5248f25/phpvAcCAj.png "Currency Converter")
+# front-end-technical-test-solution
